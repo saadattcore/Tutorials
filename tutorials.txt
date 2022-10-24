@@ -1,0 +1,14 @@
+1 - asyn await
+2 - ienumerable, ienumerator
+3 - delegates, events, lambda
+4 - exceptions
+5 - oop
+6 - genrics
+7 - collections
+8 - iterators
+9 - anonoymous
+10 - streams
+11 - observer pattern
+12 - Idisposable
+13 - dispose / destructor
+
